@@ -62,7 +62,8 @@ The project is structured into five main functions:
 
 ### Usage 
 
-**Run the Main Script**:
+**Run the IPython Notebook**:
+
 Open the Jupyter notebook file `Run_QKD.ipynb` and run all cells. You will be prompted to enter the desired key length (128, 192, or 256 bits) and the message you want to encrypt.
 
 
