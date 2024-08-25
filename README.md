@@ -57,6 +57,12 @@ The project is structured into five main functions:
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/yourusername/qkd-aes-encryption.git
-   cd qkd-aes-encryption
+   git clone https://github.com/Fatma-Hamouda/QKD-project.git
+   cd QKD-project
+
+### Usage 
+
+**Run the Main Script**:
+Open the Jupyter notebook file `Run_QKD.ipynb` and run all cells. You will be prompted to enter the desired key length (128, 192, or 256 bits) and the message you want to encrypt.
+
 
